@@ -1,4 +1,5 @@
 # Karl L. Quino
-    itc7 - The Internet And Web Application
+    ITC7 - The Internet And Web Application
     ID: 2129478
-    SHCED:
+    SCHED:TTH 6:00-8:30
+# CV Profile Page
